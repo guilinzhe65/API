@@ -1,0 +1,10 @@
+server:
+  port: 8090
+  # 全局接口地址
+  servlet:
+    context-path: /api
+
+yunapi:
+  client:
+    access-key: zyq
+    secret-key: abcdefgh
